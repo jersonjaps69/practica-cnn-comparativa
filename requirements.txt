@@ -1,0 +1,4 @@
+# Usar preferentemente Python 3.11 en VS Code (Windows).
+tensorflow==2.19.1
+numpy>=1.26,<2.2
+matplotlib>=3.8,<4

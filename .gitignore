@@ -1,0 +1,18 @@
+# Entornos virtuales / dependencias locales
+.venv/
+venv/
+env/
+# Bytecode y cachés
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# Herramientas y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Logs y archivos temporales
+*.log
+*.tmp
+# Los PNG de evidencias y JSON de resultados SÍ se suben a GitHub.
