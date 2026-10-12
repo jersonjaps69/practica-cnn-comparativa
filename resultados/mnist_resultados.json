@@ -1,0 +1,32 @@
+{
+  "dataset": "MNIST",
+  "seed": 42,
+  "muestras_entrenamiento": 5000,
+  "muestras_prueba": 10000,
+  "epocas": 1,
+  "batch_size": 64,
+  "parametros": 121930,
+  "train_loss": 0.80581134557724,
+  "train_accuracy": 0.7688000202178955,
+  "test_loss": 0.27490079402923584,
+  "test_accuracy": 0.9204000234603882,
+  "probabilidades": [
+    9.25503741200373e-07,
+    1.3564084611061844e-06,
+    0.00010700327402446419,
+    5.0076821935363114e-05,
+    4.375906215159375e-08,
+    5.3529220167547464e-05,
+    2.869033899344231e-08,
+    0.9993645548820496,
+    1.308356695517432e-05,
+    0.00040946630178950727
+  ],
+  "suma_probabilidades": 1.0000001192092896,
+  "clase_predicha": 7,
+  "clase_real": 7,
+  "etiqueta_predicha": "7",
+  "etiqueta_real": "7",
+  "confianza": 0.9993645548820496,
+  "correcta": true
+}
